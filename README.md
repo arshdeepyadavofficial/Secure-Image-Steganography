@@ -71,14 +71,24 @@ Enter image filename: arsh.png
 
 The encrypted message is unreadable without the correct Fernet key. The stego image itself gives no clue that it holds hidden data.
 
+```
 ## 🏁 Future Improvements
 
 - GUI interface with file upload
 - Support for other formats (audio, video)
 - File compression before encryption
 
+```
 ## 👤 Author
 
 Made with 🖤 by Arshdeep Yadav  
 Computer Science Engineering,<br>
 R.E.C. Kannauj
+
+```
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share it with proper attribution.
+
+```
