@@ -84,7 +84,7 @@ The encrypted message is unreadable without the correct Fernet key. The stego im
 
 ## 👤 Author
 
-Made with 🖤 by Arshdeep Yadav  
+Made with 🖤 by [`Arshdeep Yadav`](https://github.com/arshdeepyadavofficial)  
 Computer Science Engineering,<br>
 R.E.C. Kannauj
 
