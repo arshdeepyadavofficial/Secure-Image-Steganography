@@ -1,4 +1,9 @@
 # 🔐 Secure Image Steganography Tool
+[![Last Commit](https://img.shields.io/github/last-commit/arshdeepyadavofficial/Brain-Tumor-Detection-And-Classification.svg)](https://github.com/arshdeepyadavofficial/Brain-Tumor-Detection-And-Classification/commits/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+<br>
+[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://commonmark.org/help/)
+<br>
 
 This is a simple Python-based project that allows you to securely hide and extract text messages inside images using steganography and AES encryption.
 
